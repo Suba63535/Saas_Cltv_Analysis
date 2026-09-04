@@ -47,3 +47,9 @@ Online Retail II (UCI) dataset from Kaggle.
 ## Conclusion
 
 The cohort retention and CLTV analysis provides insights into customer behavior and helps businesses develop strategies to improve customer retention and customer lifetime value.
+
+## Power BI Dashboard
+
+[View Dashboard PDF](https://github.com/Suba63535/Saas_Cltv_Analysis/blob/main/SaaS_CLTV_Dashboard.pdf)
+
+[View Power BI Project (.pbix)](https://github.com/Suba63535/Saas_Cltv_Analysis/blob/main/SaaS_CLTV_Analysis.pbix)
